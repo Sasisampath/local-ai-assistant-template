@@ -1,3 +1,6 @@
+<img width="1536" height="1024" alt="Local AI Assistant Cover" src="https://github.com/user-attachments/assets/09d010cc-eba5-4053-803f-39ec0345880a" />
+
+
 # Local AI Assistant Template
 
 Run a private chatbot fully on your machine using TinyLlama.
